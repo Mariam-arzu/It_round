@@ -1,0 +1,22 @@
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "check_events" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @mariam_chat_bot id=7628846836 - 'mariam_chat_bot'
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @mariam_chat_bot id=7628846836 - 'mariam_chat_bot'
+INFO:aiogram.dispatcher:Polling stopped
+INFO:apscheduler.scheduler:Adding job tentatively -- it will be properly scheduled when the scheduler starts
+INFO:apscheduler.scheduler:Added job "check_events" to job store "default"
+INFO:apscheduler.scheduler:Scheduler started
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @mariam_chat_bot id=7628846836 - 'mariam_chat_bot'
+INFO:aiogram.event:Update id=607674482 is handled. Duration 284 ms by bot id=7628846836
+INFO:aiogram.event:Update id=607674483 is handled. Duration 310 ms by bot id=7628846836
+INFO:aiogram.event:Update id=607674481 is handled. Duration 354 ms by bot id=7628846836
+INFO:aiogram.event:Update id=607674484 is handled. Duration 361 ms by bot id=7628846836
+INFO:aiogram.event:Update id=607674485 is handled. Duration 112 ms by bot id=7628846836
+INFO:aiogram.event:Update id=607674486 is handled. Duration 159 ms by bot id=7628846836
+WARNING:aiogram.dispatcher:Received SIGINT signal
+INFO:aiogram.dispatcher:Polling stopped for bot @mariam_chat_bot id=7628846836 - 'mariam_chat_bot'
+INFO:aiogram.dispatcher:Polling stopped

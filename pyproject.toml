@@ -1,0 +1,15 @@
+[project]
+name = "it-round"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "aiogram>=3.21.0",
+    "apscheduler>=3.11.0",
+    "auto-py-to-exe>=2.46.0",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.10.1",
+    "sqlalchemy>=2.0.41",
+    "sqlalchemy-utils>=0.41.2",
+]
